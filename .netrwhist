@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/SHARE/Documents/temp'
+let g:netrw_dirhist_4='/home/SHARE/Documents/temp/v'
+let g:netrw_dirhist_3='/home/SHARE/Documents/temp'
+let g:netrw_dirhist_2='/home/SHARE/Documents/temp/v/vim'
+let g:netrw_dirhist_1='/home/bless/.pentadactyl'
+let g:netrw_dirhist_0='/home/bless/.moonchild productions/pale moon/eakncoqc.default'
+let g:netrw_dirhist_9='/home/bless/Documents/temp'
+let g:netrw_dirhist_8='/home/bless/.config/ranger'
+let g:netrw_dirhist_7='/home/bless/Documents/temp/git_practice/.git'
+let g:netrw_dirhist_6='/home/bless/.vim/plugged/vimtex'

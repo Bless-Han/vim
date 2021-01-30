@@ -1,0 +1,13 @@
+syntax on
+colorscheme ron
+set is
+
+set nu
+set cul
+hi CursorLine cterm=NONE ctermbg=blue
+
+set shiftwidth=4
+set tabstop=4
+set cindent
+
+map <F5> :w<CR>:!g++ % -g -o %< && time ./%<<CR>
